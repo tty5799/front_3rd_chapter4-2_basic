@@ -108,4 +108,17 @@
 - description meta tag 추가
   - description meta tag 를 추가하여 검색 결과 하단에 설명을 추가합니다. 
 
-## 최종 결과
+
+## 성능 측정 최종 결과
+
+### Page Speed
+
+| Before                                                     | After                                               |
+|------------------------------------------------------------|------------------------------------------------------------|
+| <img src="./images/doc/page-speed-as-is.png" width="800"/> | <img src="./images/doc/page-speed-to-be.png" width="800"/> |
+
+### Light House
+
+| Before                                                       | After                                               |
+|--------------------------------------------------------------|-------------------------------------------------------------|
+| <img src="./images/doc/github-issue-as-is.png" width="800"/> | <img src="./images/doc/github-issue-to-be.png" width="800"/> |
